@@ -1,0 +1,12 @@
+{
+  "name": "vue2-chunk",
+  "version": "0.0.1",
+  "description": "A global filter for vue2 to chunck arrays",
+  "main": "index.js",
+  "repository": "git@github.com:eregnier/vue2-chunk.git",
+  "author": "Eric Régnier <utopman@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chunk": "^0.0.2"
+  }
+}
